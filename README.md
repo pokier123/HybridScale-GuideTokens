@@ -1,2 +1,2 @@
 # HybridScale-GuideTokens
-我的论文的代码
+Code for  paper HybridScale-GuideTokens DETR: Enhancing Object Detection with GuideToken-Optimized Multi-Scale Feature Fusion in a Transformer Model"
